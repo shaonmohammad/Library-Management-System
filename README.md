@@ -1,7 +1,3 @@
-Here's a professional README file for your Django library management system project:  
-
----
-
 # Library Management System API  
 
 This is a RESTful API for managing a library system where users can borrow and return books. The system is built using Django and Django REST Framework. It includes features such as JWT-based authentication, book management, borrowing, and returning records.  
